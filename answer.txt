@@ -1,1 +1,1 @@
-Hola, este es un archivo txt
+Este es un archivo txt
